@@ -2,7 +2,7 @@
 .SYNOPSIS
 	Stop and restart all services from a list
 .NOTES
-	You have to edit the tab ServicesList.
+	You have to edit the array ServicesList.
 	This stop all service in the list (order by list)
 	When all are stopped, restart the service ith a 30s timer.
 .NOTES
